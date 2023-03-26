@@ -14,7 +14,34 @@
 
     (ii) Using IQR, detect height outliers and print them
     
-    
+ ## ALGORITHM
+ 
+ # Step 1
+ 
+  Read the given data
+  
+  # Step 2
+  
+  Remove outliers using IQR method
+  
+  # Step 3
+  
+  Using zscore remove the outliers
+  
+  # Step 4
+  
+  Read the next data
+  
+  # Step 5
+  
+  Using IQR method detect the height and weight outliers and print them
+  
+  # Step 6
+  
+  Save the cleaned data to the file
+  
+   
+   
  ## CODE
  
 import pandas as pd
