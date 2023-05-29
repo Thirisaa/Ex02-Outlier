@@ -19,27 +19,27 @@
     
  ## ALGORITHM
  
- # Step 1
+ ### Step 1
  
   Read the given data
   
- # Step 2
+ ### Step 2
   
   Remove outliers using IQR method
   
- # Step 3
+ ### Step 3
   
   Using zscore remove the outliers
   
- # Step 4
+ ### Step 4
   
   Read the next data
   
- # Step 5
+ ### Step 5
   
   Using IQR method detect the height and weight outliers and print them
   
- # Step 6
+ ### Step 6
   
   Save the cleaned data to the file
   
